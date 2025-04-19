@@ -1,13 +1,13 @@
 # About Me
-- 👋 Hi, I’m @ArnauQuintana, a passionate **Electronics Engineer** with a strong background in **Embedded Systems** and **Power Electronics**. I hold a **Master’s degree in Electronic and Communications Engineering** from **[nombre de la universidad]**, where I gained solid expertise in designing and developing both hardware and software systems.
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @ArnauQuintana, a passionate **Electronics Engineer** with a strong background in **Embedded Systems** and **Power Electronics**. I hold a **Master’s degree in Electronic and Communications Engineering** from **FH Joanneum**, where I gained solid expertise in designing and developing both hardware and software systems.
+- 🌱 I’m currently working in a confidential project developing the firmware for a 1 MW inverter. 
 ## What I Do
 
 I specialize in:
-- **Firmware Development**: Working with embedded systems, specifically with **C2000** microcontrollers, for applications such as **power converters** and **inverter control systems**.
-- **Power Electronics**: Designing and optimizing power conversion systems, including **resonant inverters** and **DC-DC converters**.
+- **Firmware Development**: Working with embedded systems, specifically with **C2000** and **MSP** family from TI and **STM32** family from ST.
+- **Power Electronics**: Designing and optimizing power conversion systems, including **Hardwarre** and **Software**.
 - **Signal Processing**: Implementing digital communication systems and modulating/demodulating signals for RF applications.
-- **Control Systems**: Developing control algorithms, including **Field-Oriented Control (FOC)** for **Permanent Magnet Synchronous Motors (PMSM)**.
+- **Control Systems**: Developing control algorithms. 
 
 ## My Skills
 - **Embedded C Programming**
@@ -28,7 +28,7 @@ I’m deeply interested in the intersection of hardware and software, especially
 
 ## What You’ll Find on My GitHub
 
-- **Open-source Projects**: Feel free to explore my work, which includes various embedded systems projects, power electronics designs, and software simulations.
+- **Projects**: Feel free to explore my work, which includes various embedded systems projects and power electronics designs.
 - **Code Samples**: I share code and documentation for anyone looking to learn or collaborate.
 - **Research and Development**: My GitHub also showcases my research efforts in control systems and power electronics.
 
