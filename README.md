@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m @ArnauQuintana, a passionate **Electronics Engineer** with a strong background in **Embedded Systems** and **Power Electronics**. I hold a **Master’s degree in Electronic and Communications Engineering** from **FH Joanneum**, where I gained solid expertise in designing and developing both hardware and software systems.
-- 🌱 I’m currently working in a confidential project developing the firmware for a 1 MW inverter. 
+- 🌱 I’m currently working in a confidential project developing the firmware for a 1 MW inverter in the F28388D platform from the TI C2000 family. 
 ## What I Do
 
 I specialize in:
